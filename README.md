@@ -18,7 +18,7 @@ _A Weather Application using Jetpack Compose for Android_
 
 #### Branches
 
-template: <type>/<short_title>
+template: `<type>/<short_title>`
 
 ##### type
 - `fix`: Type of branch for fixing a bug or anything thing that is related to fixing a code
